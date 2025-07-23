@@ -64,7 +64,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rohith8080&show_icons=true&theme=github_dark&hide=contribs,prs" width="50%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohith8080&theme=github-dark-blue" width="50%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohith8080&layout=compact&theme=github_dark" width="45%" />
 </p>
 
 ---
