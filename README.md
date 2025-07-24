@@ -44,7 +44,7 @@
 - ✅ Real-time messaging with WebSocket implementation  
 - ✅ JWT-based user authentication and session handling  
 - ✅ Built with React Context API for global state management  
-🔗 [GitHub Repo](https://github.com/ROHITH-S12)
+🔗 [GitHub Repo](https://github.com/Rohith8080/Decentralized-Chat-App.git)
 
 ---
 
@@ -54,7 +54,7 @@
 - ✅ Multilingual chatbot for legal document retrieval from government sources  
 - ✅ RAG pipeline with semantic search using FAISS and Hugging Face embeddings  
 - ✅ Integrated Google Translate for support in Indian regional languages  
-🔗 [GitHub Repo](https://github.com/ROHITH-S12) 
+🔗 [GitHub Repo](https://github.com/Rohith8080/Law-Mate.git)
 
 
 ---
