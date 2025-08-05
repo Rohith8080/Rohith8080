@@ -13,7 +13,7 @@
 - 💡 Exploring Full Stack Development, Cloud Computing & Generative AI
 - 📚 Preparing for **big tech interviews** and building **unique, problem-solving products**
 - 🤝 Open to collaboration on innovative and meaningful projects
-- 🚀 Computer Science undergrad passionate about building impactful tech
+- 🚀 Computer Science undergrad passionate about building impactful tech 
 
 ---
 
