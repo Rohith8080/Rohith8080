@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohith S </h1>
-<h3 align="center">🚀 Full Stack Developer | Cloud & Gen AI Enthusiast | Java Engineer </h3>
+<h3 align="center">🚀 Full Stack Developer | Cloud & Gen AI Enthusiast | Java Engineer  </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Turning+Ideas+into+Impactful+Products;Building+with+AI%2C+React%2C+Node%2C+MongoDB;Let's+create+smarter+solutions+together" alt="Typing SVG" />
